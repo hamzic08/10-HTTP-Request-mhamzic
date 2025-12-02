@@ -4,7 +4,7 @@ using System.Text.RegularExpressions; // Für Regex-Textsuche
 using System.Threading.Tasks;    // Für async/await
 using System.Collections.Generic; // Für List<T>
 
-public class httpreq : MonoBehaviour
+public class Httpreq : MonoBehaviour
 {
     // Basis-Seite, auf der die Lehrer*innen gelistet sind.
     // Von dieser Seite holen wir die Detail-Links.
